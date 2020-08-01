@@ -1,2 +1,2 @@
-# delphi-standard-factory
+# delphi-framework-factory
 Standard object factory pattern
